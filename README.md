@@ -1,2 +1,2 @@
-prueba de como crear un repositorio
+prueba de como crear un repositorio y clonarlo de GitHub
 
